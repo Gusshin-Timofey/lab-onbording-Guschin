@@ -1,0 +1,3 @@
+git add src/fixed_transaction.py .flake8
+git commit -m "fix: resolve flake8 linter errors and add stubs"
+git push origin feature/practice-7
