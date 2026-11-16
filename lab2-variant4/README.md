@@ -418,7 +418,6 @@ goto menu
 ---
 
 ## 2. Скриншоты работы системы
-*(Загрузите скриншоты в папку `screenshots/` репозитория и вставьте ссылки)*
 1. Работа `chapter1.bat`: `<img width="1272" height="747" alt="chapter1" src="https://github.com/user-attachments/assets/1fecc2c4-9738-4cc8-84dc-718ac1b56052" />`
 2. Работа `chapter2.bat`: `<img width="840" height="1029" alt="chapter2" src="https://github.com/user-attachments/assets/eee3be19-a886-47ed-9f11-6203d96de954" />`
 3. Работа `chapter3.bat`: `<img width="1112" height="681" alt="chapter3" src="https://github.com/user-attachments/assets/e3fe3d70-15d6-49a8-9450-2f8f9f238b2c" />`
